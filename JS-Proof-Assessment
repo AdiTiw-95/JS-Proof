@@ -45,5 +45,6 @@ function getTotalSupply() {
 // call your functions below this line
 mintNFT("Aditi","Black","Bata","Wrist watch");
 mintNFT("Anandi","Brown","Prada","Anklet");
+mintNFT("Suresh","Brown","Bahamas","Gold 24Carat chain");
 listNFTs();
 getTotalSupply();
